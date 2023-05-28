@@ -1,4 +1,3 @@
-"x"
 "1" "participant"
 "2" "activity"
 "3" "tBodyAcc-mean()-X"
