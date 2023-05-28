@@ -11,4 +11,6 @@ Concatenated trainingdata3 and testdata3 into finaldata.
 Renamed columns from “V1” and “V2” to “participant” and “activity” in finaldata.
 Mapped values of activity to names of activity using activitylabels and placed result into finaldata2.
 Created table of means of last 66 columns grouped by first two columns (participant and activity).
+Exported finaldata2 and finaldatasum to finaldata2.txt and finaldatasum.txt, respectively.
+Exported datanames to CodeBook.md
 
